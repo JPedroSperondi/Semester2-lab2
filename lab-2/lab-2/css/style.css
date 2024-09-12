@@ -1,0 +1,37 @@
+/** Step one **/
+
+/** Step two **/
+
+h1,h2,h3,h4,h5,h6{
+    font-family: "SUSE";
+}
+
+/** Step three **/
+
+h1{
+    font-size: 46px;
+    letter-spacing: 2px;    
+    text-align: center;
+    color: brown;
+}
+
+/** Step four **/
+
+p,a,ul{
+    font-family: "Protest+Guerrilla"
+}
+
+/** Step five **/
+
+
+span{
+    color:aquamarine;
+}
+
+/** Step six **/
+
+h3{
+    font-size: large;
+    text-shadow: 4px 3px 4px rgba(0,0,0,.7);
+}
+
